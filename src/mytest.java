@@ -7,6 +7,10 @@ import java.util.*;
  */
 public class mytest {
     public static void main(String[] args) {
-
+        try{
+            Class.forName("");
+        }catch (Exception e){
+            e.printStackTrace();
+        }
     }
 }
