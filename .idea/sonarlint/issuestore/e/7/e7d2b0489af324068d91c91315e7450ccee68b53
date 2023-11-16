@@ -1,0 +1,37 @@
+
+]
+java:S1128";Remove this unused import 'com.mysql.cj.xdevapi.JsonArray'.(™Î£õüÿÿÿÿ8æŞá¿©1
+W
+java:S3400„"9Remove this method and declare a constant for this value.(”·³›8ûªø¿©1
+R
+java:S1128
+"0Remove this unused import 'java.lang.Float.NaN'.(õÃßÜúÿÿÿÿ8æŞá¿©1
+a
+java:S3252"DUse static access with "com.alibaba.fastjson.JSON" for "parseArray".(ºóå¡8æŞá¿©1
+W	java:S125"<This block of commented-out lines of code should be removed.(³‹¹B8æŞá¿©1
+[	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8ûªø¿©1
+Z
+java:S1854"8Remove this useless assignment to local variable "grid".(–İ‹âûÿÿÿÿ8æŞá¿©1
+N
+java:S1172ƒ"+Remove this unused method parameter "nums".(Œ‚®öùÿÿÿÿ8ûªø¿©1
+|
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¾„‹øÿÿÿÿ8ûªø¿©1
+{	java:S135¾"YReduce the total number of break and continue statements in this loop to use at most one.(˜¥€òúÿÿÿÿ8ûªø¿©1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ª’ı¿©1
+u
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(µ” Êúÿÿÿÿ8ûªø¿©1
+v	java:S135Ô"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÙü8ûªø¿©1
+u
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(½ ‹şÿÿÿÿ8ûªø¿©1
+K
+java:S1481")Remove this unused "grid" local variable.(–İ‹âûÿÿÿÿ8æŞá¿©1
+C
+java:S1168|"&Return an empty array instead of null.(¥¹ï8ûªø¿©1
+Y
+java:S1128"<Remove this unused import 'com.alibaba.fastjson.JSONObject'.(äıµ8şé¿©1
+p
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(·íÉ8ûªø¿©1
+C
+java:S1168o"&Return an empty array instead of null.(¥¹ï8ûªø¿©1
+\
+java:S1155«">Use isEmpty() to check whether the collection is empty or not.(€Íşº8ûªø¿©1

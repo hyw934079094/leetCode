@@ -1,0 +1,21 @@
+
+K
+java:S3740†"/Provide the parametrized type for this generic.(šó™³ûÿÿÿÿ
+g
+java:S3776d"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ù¤9
+K
+java:S3740…"/Provide the parametrized type for this generic.(ú†±åÿÿÿÿÿ
+W
+java:S2130â"9Use "Integer.parseInt" for this string-to-int conversion.(íò›Â8è¹÷ê–1
+m	java:S127R"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+M
+java:S3740Œ"/Provide the parametrized type for this generic.(…™µâ8®‡øâ˜1
+|
+java:S3012¿"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÖØ³øÿÿÿÿ8•‚…ÿ˜1
+?
+java:S1643î"Use a StringBuilder instead.(ƒ°µüÿÿÿÿ8µÈÜê–1
+F
+java:S3740Ü"/Provide the parametrized type for this generic.(ëÖÛ
+m	java:S127V"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù
+F
+java:S3740Ü"/Provide the parametrized type for this generic.(ëÖÛ

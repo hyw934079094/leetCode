@@ -1,0 +1,1918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Normal.java" line="516" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7b8f36e-d3c0-493a-99de-49ce26266dd5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCode$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1650790159055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>houyw.java.hard.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$Day11.ic" NAME="Day11 Coverage Results" MODIFIED="1657615811389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>houyw.java.myself.leetcode.two.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$Test1.ic" NAME="Test1 Coverage Results" MODIFIED="1660448994953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>houyw.java.myself.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$Day6.ic" NAME="Day6 Coverage Results" MODIFIED="1655449116645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>houyw.java.myself.suanfa.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$test.ic" NAME="test Coverage Results" MODIFIED="1689754732166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>houyw.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$Normal.ic" NAME="Normal Coverage Results" MODIFIED="1661911015574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>houyw.java.myself.leetcode.dtgh.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$Day2.ic" NAME="Day2 Coverage Results" MODIFIED="1656053988892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>houyw.java.myself.leetcode.one.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$Main.ic" NAME="Main Coverage Results" MODIFIED="1653465023201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LeetCode$Day5.ic" NAME="Day5 Coverage Results" MODIFIED="1659149947907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>houyw.java.myself.suanfa2.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="240" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="656003012">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="128" />
+          <entry key="project.open.time.0" value="15" />
+          <entry key="project.open.time.1" value="50" />
+          <entry key="project.open.time.10" value="8" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.13" value="9" />
+          <entry key="project.open.time.14" value="12" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="15" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="3" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.378" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.52" value="3" />
+          <entry key="project.open.time.6" value="8" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.7" value="9" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="181" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="5" />
+          <entry key="html" value="1" />
+          <entry key="java" value="347" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="347" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="33" />
+          <entry key="html" value="407" />
+          <entry key="java" value="168364" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="407" />
+          <entry key="JAVA" value="168364" />
+          <entry key="PLAIN_TEXT" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/houyw/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1212">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#main#0;class#test#0" expanded="true" />
+                <element signature="method#sumOfMultiples#0;class#test#0" expanded="true" />
+                <element signature="method#addOrMinusDays#0;class#test#0" expanded="true" />
+                <element signature="method#getYYYYMMDD#0;class#test#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mytest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/houyw/MyUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="method#transferLowerToUp#0;class#MyUtil#0" expanded="true" />
+                <element signature="method#main#0;class#MyUtil#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/houyw/java/Thread/ZeroEvenOdd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1560">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="e#1028#1029#0" expanded="true" />
+                <element signature="e#1054#1055#0" expanded="true" />
+                <element signature="method#zero#0;class#ZeroEvenOdd#0" expanded="true" />
+                <element signature="method#even#0;class#ZeroEvenOdd#0" expanded="true" />
+                <element signature="method#odd#0;class#ZeroEvenOdd#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/houyw/java/Thread/ThreadTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="method#repeat#0;class#IntConsumerDemo#0;class#ThreadTest#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/houyw/java/Thread/ThreadDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17310">
+              <caret line="643" column="23" selection-start-line="643" selection-start-column="23" selection-end-line="643" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/houyw/java/normal/listnode/LostNodeSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+              <folding>
+                <element signature="method#braceExpansionII#0;class#LostNodeSolution#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/houyw/java/normal/tree/treeSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1770">
+              <caret line="115" column="19" selection-start-line="115" selection-start-column="19" selection-end-line="115" selection-end-column="19" />
+              <folding>
+                <element signature="method#duoyu#0;class#treeSolution#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/houyw/java/single/array/ArraySolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8040">
+              <caret line="606" column="47" selection-start-line="606" selection-start-column="47" selection-end-line="606" selection-end-column="47" />
+              <folding>
+                <element signature="method#main#0;class#ArraySolution#0" expanded="true" />
+                <element signature="method#arithmeticTriplets#0;class#ArraySolution#0" expanded="true" />
+                <element signature="method#checkXMatrix#0;class#ArraySolution#0" expanded="true" />
+                <element signature="method#countHousePlacements#0;class#ArraySolution#0" expanded="true" />
+                <element signature="method#summaryRanges#0;class#ArraySolution#0" expanded="true" />
+                <element signature="method#missingNumber#0;class#ArraySolution#0" expanded="true" />
+                <element signature="method#wiggleSort#0;class#ArraySolution#0" expanded="true" />
+                <element signature="method#deleteGreatestValue#0;class#ArraySolution#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/houyw/java/single/str/StringSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5340">
+              <caret line="470" selection-start-line="470" selection-end-line="470" />
+              <folding>
+                <element signature="method#isAnagram#0;class#StringSolution#0" expanded="true" />
+                <element signature="method#addDigits#0;class#StringSolution#0" expanded="true" />
+                <element signature="method#addStrings#0;class#StringSolution#0" expanded="true" />
+                <element signature="method#alternateDigitSum#0;class#StringSolution#0" expanded="true" />
+                <element signature="method#numJewelsInStones#0;class#StringSolution#0" expanded="true" />
+                <element signature="method#trap#0;class#StringSolution#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/houyw/java/single/guilv/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2580">
+              <caret line="146" column="31" selection-start-line="146" selection-start-column="31" selection-end-line="146" selection-end-column="31" />
+              <folding>
+                <element signature="method#pivotInteger#0;class#Solution#0" expanded="true" />
+                <element signature="method#isUgly#0;class#Solution#0" expanded="true" />
+                <element signature="method#wordPattern#0;class#Solution#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/houyw/java/normal/arr/ArrSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7860">
+              <caret line="612" column="43" selection-start-line="612" selection-start-column="43" selection-end-line="612" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#main#0;class#ArrSolution#0" expanded="true" />
+                <element signature="method#reachableNodes#0;class#ArrSolution#0" expanded="true" />
+                <element signature="method#validPartition#0;class#ArrSolution#0" expanded="true" />
+                <element signature="method#longestIdealString#0;class#ArrSolution#0" expanded="true" />
+                <element signature="method#findClosestElements#0;class#ArrSolution#0" expanded="true" />
+                <element signature="method#maximumSum#0;class#ArrSolution#0" expanded="true" />
+                <element signature="method#robotSim#0;class#ArrSolution#0" expanded="true" />
+                <element signature="method#maxSubarraySumCircular#0;class#ArrSolution#0" expanded="true" />
+                <element signature="method#halveArray#0;class#ArrSolution#0" expanded="true" />
+                <element signature="method#grayCode#0;class#ArrSolution#0" expanded="true" />
+                <element signature="method#rotate#0;class#ArrSolution#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reverseList</find>
+      <find>hammingWeight</find>
+      <find>rlen</find>
+      <find>firstBadVersion</find>
+      <find>way</find>
+      <find>row</find>
+      <find>list</find>
+      <find>toString</find>
+      <find>Stack</find>
+      <find>stream</find>
+      <find>equals</find>
+      <find>random</find>
+      <find>nextInt</find>
+      <find>randomNumberGenerator</find>
+      <find>交换</find>
+      <find>合并</find>
+      <find>merge</find>
+      <find>·</find>
+      <find>generateTrees</find>
+      <find>isPrefixOfWord</find>
+      <find>validSubarraySize</find>
+      <find>addTwoNumbers</find>
+      <find>braceExpansionII</find>
+      <find>countNum</find>
+      <find>addStrings</find>
+      <find>synchronized</find>
+      <find>Ree</find>
+      <find>comparator</find>
+      <find>poll</find>
+      <find>List</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/day6.java" />
+        <option value="$PROJECT_DIR$/src/houyw/common/TNode.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day6.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day8.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day9.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day10.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day19.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day11.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day12.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day13.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day14.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day15.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/face/wangyi.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day16.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day17.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day18.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day20.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/face/jingdong.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/face/ali.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/face/bilibili.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/face/mihayou.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/face/pindd.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Hard.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Single.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/Thread/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/Test2.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Normal.java" />
+        <option value="$PROJECT_DIR$/src/houyw/common/utils/ArrayUtils.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/test.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/utils/MyUtils.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/Test1.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/think/test.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/think/InterfaceA.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/think/AClass.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/myself/think/BClass.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/Thread/ThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/normal/str/NormalSolution.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/hard/function/HardSolution.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/logic/logic1.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/single/listnode/ListNodeSolution.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/normal/listnode/LostNodeSolution.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/normal/tree/treeSolution.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/single/guilv/Solution.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/single/str/StringSolution.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/normal/arr/ArrSolution.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/single/array/ArraySolution.java" />
+        <option value="$PROJECT_DIR$/src/houyw/test.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/Thread/p1.java" />
+        <option value="$PROJECT_DIR$/src/houyw/java/Thread/ZeroEvenOdd.java" />
+        <option value="$PROJECT_DIR$/src/houyw/MyUtil.java" />
+        <option value="$PROJECT_DIR$/src/mytest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-6" />
+    <option name="y" value="1" />
+    <option name="width" value="1932" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="houyw" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/project/jx/LeetCode/src/houyw/java/normal/arr/ArrSolution.java&#10;e&#9;PSI&#9;JAVA://sun.font.EAttribute" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1698907522481" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="houyw.common.utils" />
+      <recent name="houyw.common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\jx\LeetCode\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.mytest">
+    <configuration name="ArraySolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="houyw.java.single.array.ArraySolution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="houyw.java.single.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="houyw.MyUtil" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="houyw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest$IntConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="houyw.java.Thread.ThreadTest$IntConsumerDemo" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="houyw.java.Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mytest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mytest" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="houyw.test" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="houyw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.ArraySolution" />
+      <item itemvalue="Application.ThreadTest$IntConsumerDemo" />
+      <item itemvalue="Application.MyUtil" />
+      <item itemvalue="Application.mytest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mytest" />
+        <item itemvalue="Application.MyUtil" />
+        <item itemvalue="Application.ThreadTest$IntConsumerDemo" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.ArraySolution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7b8f36e-d3c0-493a-99de-49ce26266dd5" name="Default Changelist" comment="" />
+      <created>1647504377404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647504377404</updated>
+      <workItem from="1647504380248" duration="5061000" />
+      <workItem from="1647775750384" duration="4332000" />
+      <workItem from="1647828337511" duration="2821000" />
+      <workItem from="1647915091250" duration="1065000" />
+      <workItem from="1648100880614" duration="597000" />
+      <workItem from="1648442446733" duration="567000" />
+      <workItem from="1648452884833" duration="1621000" />
+      <workItem from="1648524165653" duration="1553000" />
+      <workItem from="1648534922868" duration="3822000" />
+      <workItem from="1648553514978" duration="599000" />
+      <workItem from="1648802857024" duration="1273000" />
+      <workItem from="1648863016610" duration="20540000" />
+      <workItem from="1649208506729" duration="1964000" />
+      <workItem from="1650009936384" duration="1766000" />
+      <workItem from="1650076223846" duration="599000" />
+      <workItem from="1650617424175" duration="4914000" />
+      <workItem from="1650766546881" duration="15098000" />
+      <workItem from="1650851542563" duration="24222000" />
+      <workItem from="1650937044053" duration="20715000" />
+      <workItem from="1651024097357" duration="5251000" />
+      <workItem from="1651134546371" duration="1119000" />
+      <workItem from="1651196151708" duration="595000" />
+      <workItem from="1651462794075" duration="5173000" />
+      <workItem from="1651542182675" duration="595000" />
+      <workItem from="1651655773476" duration="3056000" />
+      <workItem from="1651717259839" duration="9255000" />
+      <workItem from="1652079435608" duration="14944000" />
+      <workItem from="1652152000347" duration="8627000" />
+      <workItem from="1652183923306" duration="7014000" />
+      <workItem from="1652232898333" duration="12200000" />
+      <workItem from="1652319363480" duration="3386000" />
+      <workItem from="1652840894299" duration="2846000" />
+      <workItem from="1652860138740" duration="33000" />
+      <workItem from="1652863726619" duration="18233000" />
+      <workItem from="1652942187191" duration="10885000" />
+      <workItem from="1653015344166" duration="2299000" />
+      <workItem from="1653191934191" duration="17758000" />
+      <workItem from="1653271572063" duration="14310000" />
+      <workItem from="1653357159445" duration="21732000" />
+      <workItem from="1653442259215" duration="12611000" />
+      <workItem from="1653530021413" duration="16927000" />
+      <workItem from="1653616450658" duration="576000" />
+      <workItem from="1653721810969" duration="6629000" />
+      <workItem from="1653893452775" duration="6337000" />
+      <workItem from="1653962675643" duration="14773000" />
+      <workItem from="1654660304160" duration="19202000" />
+      <workItem from="1654738880905" duration="3581000" />
+      <workItem from="1654775337782" duration="7314000" />
+      <workItem from="1654825626023" duration="15075000" />
+      <workItem from="1654914180878" duration="9239000" />
+      <workItem from="1655189596926" duration="3560000" />
+      <workItem from="1655257319989" duration="3019000" />
+      <workItem from="1655286378901" duration="1148000" />
+      <workItem from="1655371413790" duration="1103000" />
+      <workItem from="1655429888420" duration="10734000" />
+      <workItem from="1655519194822" duration="5652000" />
+      <workItem from="1655707136149" duration="18598000" />
+      <workItem from="1655775420305" duration="14130000" />
+      <workItem from="1655862001387" duration="19403000" />
+      <workItem from="1655948094818" duration="24720000" />
+      <workItem from="1656035914923" duration="19420000" />
+      <workItem from="1656123382189" duration="14219000" />
+      <workItem from="1656293889616" duration="18003000" />
+      <workItem from="1656381783084" duration="596000" />
+      <workItem from="1656383918872" duration="15339000" />
+      <workItem from="1656466451115" duration="343000" />
+      <workItem from="1656467354925" duration="589000" />
+      <workItem from="1656484293879" duration="7208000" />
+      <workItem from="1656554063720" duration="16296000" />
+      <workItem from="1656639365461" duration="11451000" />
+      <workItem from="1656728196325" duration="15966000" />
+      <workItem from="1656902457763" duration="41004000" />
+      <workItem from="1657071815940" duration="5613000" />
+      <workItem from="1657088317106" duration="3701000" />
+      <workItem from="1657099388218" duration="1198000" />
+      <workItem from="1657158730920" duration="26787000" />
+      <workItem from="1657244472943" duration="20760000" />
+      <workItem from="1657332174060" duration="19469000" />
+      <workItem from="1657501943382" duration="12782000" />
+      <workItem from="1657589239984" duration="17125000" />
+      <workItem from="1657699625086" duration="5176000" />
+      <workItem from="1657761946986" duration="11435000" />
+      <workItem from="1657848513337" duration="18043000" />
+      <workItem from="1657935910261" duration="13270000" />
+      <workItem from="1658107995903" duration="12640000" />
+      <workItem from="1658194342089" duration="5598000" />
+      <workItem from="1658234182142" duration="2332000" />
+      <workItem from="1658280741363" duration="596000" />
+      <workItem from="1658287812427" duration="12242000" />
+      <workItem from="1658367694220" duration="15803000" />
+      <workItem from="1658455935887" duration="6810000" />
+      <workItem from="1658541975902" duration="7460000" />
+      <workItem from="1658659486665" duration="586000" />
+      <workItem from="1658712742298" duration="796000" />
+      <workItem from="1658804400093" duration="345000" />
+      <workItem from="1658804751581" duration="12687000" />
+      <workItem from="1658885466123" duration="19009000" />
+      <workItem from="1658972137661" duration="15100000" />
+      <workItem from="1659058704739" duration="665000" />
+      <workItem from="1659062297194" duration="13088000" />
+      <workItem from="1659146499996" duration="4097000" />
+      <workItem from="1659162943831" duration="10483000" />
+      <workItem from="1659317570702" duration="13435000" />
+      <workItem from="1659409770207" duration="15163000" />
+      <workItem from="1659494078517" duration="4516000" />
+      <workItem from="1659508387686" duration="11217000" />
+      <workItem from="1659576937385" duration="16958000" />
+      <workItem from="1638937735326" duration="7178000" />
+      <workItem from="1659879003473" duration="544000" />
+      <workItem from="1659922332058" duration="6131000" />
+      <workItem from="1659929133887" duration="7219000" />
+      <workItem from="1659947728955" duration="5160000" />
+      <workItem from="1660008535762" duration="25518000" />
+      <workItem from="1660095272486" duration="17594000" />
+      <workItem from="1660182283575" duration="12215000" />
+      <workItem from="1660217868308" duration="9393000" />
+      <workItem from="1660268434810" duration="55000" />
+      <workItem from="1660275518583" duration="11154000" />
+      <workItem from="1660358063383" duration="10571000" />
+      <workItem from="1660444243967" duration="24828000" />
+      <workItem from="1660634648032" duration="7519000" />
+      <workItem from="1660703423522" duration="11431000" />
+      <workItem from="1660786444103" duration="606000" />
+      <workItem from="1660813891154" duration="8486000" />
+      <workItem from="1660873528771" duration="10514000" />
+      <workItem from="1660985320411" duration="4674000" />
+      <workItem from="1661048528625" duration="6791000" />
+      <workItem from="1661132334931" duration="27280000" />
+      <workItem from="1661218430344" duration="13375000" />
+      <workItem from="1661306454062" duration="13057000" />
+      <workItem from="1661413432183" duration="3763000" />
+      <workItem from="1661737553147" duration="13371000" />
+      <workItem from="1661830449786" duration="12968000" />
+      <workItem from="1661909898237" duration="12542000" />
+      <workItem from="1661951052333" duration="16000" />
+      <workItem from="1661996695374" duration="2262000" />
+      <workItem from="1662017834111" duration="5446000" />
+      <workItem from="1662082753151" duration="6034000" />
+      <workItem from="1663573788546" duration="3010000" />
+      <workItem from="1663921765345" duration="2319000" />
+      <workItem from="1664245251526" duration="3176000" />
+      <workItem from="1664423020774" duration="1056000" />
+      <workItem from="1666873307979" duration="2636000" />
+      <workItem from="1666923278685" duration="1220000" />
+      <workItem from="1670897899197" duration="789000" />
+      <workItem from="1678070345459" duration="10515000" />
+      <workItem from="1678152267416" duration="2807000" />
+      <workItem from="1678259593437" duration="1036000" />
+      <workItem from="1678325259986" duration="562000" />
+      <workItem from="1683170232701" duration="1516000" />
+      <workItem from="1686732682635" duration="4109000" />
+      <workItem from="1686793144939" duration="9022000" />
+      <workItem from="1686877603098" duration="15771000" />
+      <workItem from="1687760319296" duration="9821000" />
+      <workItem from="1687827966217" duration="476000" />
+      <workItem from="1687848770286" duration="3427000" />
+      <workItem from="1687936444009" duration="4131000" />
+      <workItem from="1688019645464" duration="1677000" />
+      <workItem from="1688088336241" duration="22000" />
+      <workItem from="1688525586239" duration="653000" />
+      <workItem from="1689216640594" duration="4063000" />
+      <workItem from="1689321920735" duration="6531000" />
+      <workItem from="1689749095880" duration="10426000" />
+      <workItem from="1689925752652" duration="5871000" />
+      <workItem from="1690166763785" duration="5935000" />
+      <workItem from="1690249681932" duration="17146000" />
+      <workItem from="1690334754683" duration="1907000" />
+      <workItem from="1690422955636" duration="7548000" />
+      <workItem from="1690511121312" duration="1581000" />
+      <workItem from="1690787820989" duration="1687000" />
+      <workItem from="1690853278878" duration="561000" />
+      <workItem from="1691135422570" duration="1234000" />
+      <workItem from="1691481895781" duration="1465000" />
+      <workItem from="1691485652493" duration="1046000" />
+      <workItem from="1694765863665" duration="2252000" />
+      <workItem from="1695002173168" duration="15000" />
+      <workItem from="1697524459567" duration="1999000" />
+      <workItem from="1697592593857" duration="599000" />
+      <workItem from="1698735118606" duration="2785000" />
+      <workItem from="1698893227658" duration="1353000" />
+      <workItem from="1698905681132" duration="939000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1458579000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="1" width="1932" height="1055" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48217055" visible="true" weight="0.2815171" />
+      <window_info id="Structure" order="1" sideWeight="0.5178295" side_tool="true" weight="0.24840085" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.46481878" weight="0.22296543" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.46535182" weight="0.37346712" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5346482" side_tool="true" weight="0.3373102" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.4978678" visible="true" weight="0.23299888" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49711815" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" sideWeight="0.4985591" weight="0.32942432" />
+      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.49567723" weight="0.32942432" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50144094" side_tool="true" weight="0.32942432" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/single/str/StringSolution.java</url>
+          <line>237</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/single/treenode/TreeNodeSolution.java</url>
+          <line>693</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa/Day3.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa/Day7.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa/Day7.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa/Day11.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/single/array/ArraySolution.java</url>
+          <line>296</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/one/Day12.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/one/Day13.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/one/Day14.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/one/Day14.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/one/Day15.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day1.java</url>
+          <line>187</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day2.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day2.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day5.java</url>
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/test.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day10.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day11.java</url>
+          <line>126</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day12.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day12.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day13.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day16.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day17.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/two/Day18.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day1.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day3.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day3.java</url>
+          <line>131</line>
+          <properties />
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day4.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day18.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day8.java</url>
+          <line>190</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day19.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day13.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/face/wangyi.java</url>
+          <line>181</line>
+          <properties />
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/suanfa2/Day20.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/face/jingdong.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/face/mihayou.java</url>
+          <line>160</line>
+          <properties />
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/normal/arr/ArrSolution.java</url>
+          <line>278</line>
+          <properties />
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/normal/arr/ArrSolution.java</url>
+          <line>255</line>
+          <properties />
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/single/array/ArraySolution.java</url>
+          <line>365</line>
+          <properties />
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/single/array/ArraySolution.java</url>
+          <line>369</line>
+          <properties />
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/hard/function/HardSolution.java</url>
+          <line>561</line>
+          <properties />
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/Test1.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/Test1.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Normal.java</url>
+          <line>192</line>
+          <properties />
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Normal.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/Test2.java</url>
+          <line>170</line>
+          <properties />
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/Test2.java</url>
+          <line>261</line>
+          <properties />
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/Test2.java</url>
+          <line>290</line>
+          <properties />
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/Test2.java</url>
+          <line>286</line>
+          <properties />
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Hard.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Single.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/test.java</url>
+          <line>356</line>
+          <properties />
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/test.java</url>
+          <line>447</line>
+          <properties />
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Normal.java</url>
+          <line>327</line>
+          <properties />
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/test.java</url>
+          <line>589</line>
+          <properties />
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Normal.java</url>
+          <line>513</line>
+          <properties />
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/test.java</url>
+          <line>627</line>
+          <properties />
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/test.java</url>
+          <line>674</line>
+          <properties />
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/myself/test.java</url>
+          <line>667</line>
+          <properties />
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/normal/str/NormalSolution.java</url>
+          <line>902</line>
+          <properties />
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/single/guilv/Solution.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/single/str/StringSolution.java</url>
+          <line>332</line>
+          <properties />
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/normal/arr/ArrSolution.java</url>
+          <line>482</line>
+          <properties />
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/single/str/StringSolution.java</url>
+          <line>370</line>
+          <properties />
+          <option name="timeStamp" value="435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/single/str/StringSolution.java</url>
+          <line>414</line>
+          <properties />
+          <option name="timeStamp" value="458" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/houyw/java/single/array/ArraySolution.java</url>
+          <line>590</line>
+          <properties />
+          <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java</url>
+          <line>177</line>
+          <properties />
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i==2643</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==1000</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==800</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==500</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==300</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==100</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i&gt;=s.length()-3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==s.length()-1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==6</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>nums[(i + n) % n]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums[(i - 1 + n) % n]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr[queries[i][1]+1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr[queries[i][0]]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>queries[i][1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>queries[i][0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s3.charAt(i + j - 1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s1.charAt(i - 1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s3.charAt(i+j-1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/face/bilibili.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="196" column="53" selection-start-line="196" selection-start-column="53" selection-end-line="196" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/face/mihayou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="153" column="36" lean-forward="true" selection-start-line="153" selection-start-column="36" selection-end-line="153" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#mihayou#0" expanded="true" />
+            <element signature="method#findKthLargest#0;class#mihayou#0" expanded="true" />
+            <element signature="method#balancedStringSplit#0;class#mihayou#0" expanded="true" />
+            <element signature="method#maxUncrossedLines#0;class#mihayou#0" expanded="true" />
+            <element signature="method#calculateEx#0;class#mihayou#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/face/pindd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="127" column="25" selection-start-line="127" selection-start-column="25" selection-end-line="127" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="323" column="19" selection-start-line="323" selection-start-column="19" selection-end-line="323" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/think/AClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/think/BClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/think/InterfaceA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/think/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/common/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/think/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Hard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <folding>
+            <element signature="method#main#0;class#Hard#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/utils/MyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/common/utils/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/hard/function/HardSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="675" column="13" selection-start-line="675" selection-start-column="13" selection-end-line="675" selection-end-column="13" />
+          <folding>
+            <element signature="method#main#0;class#HardSolution#0" expanded="true" />
+            <element signature="method#validSubarraySize#0;class#HardSolution#0" expanded="true" />
+            <element signature="method#better#0;class#HardSolution#0" expanded="true" />
+            <element signature="method#minNumberOfSemesters1#0;class#HardSolution#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/normal/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/normal/str/NormalSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="905" column="32" lean-forward="true" selection-start-line="905" selection-start-column="32" selection-end-line="905" selection-end-column="32" />
+          <folding>
+            <element signature="method#main#0;class#NormalSolution#0" expanded="true" />
+            <element signature="method#numTimesAllBlue#0;class#NormalSolution#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Single.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Single#0" expanded="true" />
+            <element signature="method#answerQueries#0;class#Single#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/leetcode/dtgh/Normal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="529" column="23" selection-start-line="529" selection-start-column="23" selection-end-line="529" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Normal#0" expanded="true" />
+            <element signature="method#uniquePathsWithObstacles#0;class#Normal#0" expanded="true" />
+            <element signature="method#nthSuperUglyNumber#0;class#Normal#0" expanded="true" />
+            <element signature="method#numTrees#0;class#Normal#0" expanded="true" />
+            <element signature="method#maximalSquare1#0;class#Normal#0" expanded="true" />
+            <element signature="method#insertIntoMaxTree#0;class#Normal#0" expanded="true" />
+            <element signature="method#isInterleave#0;class#Normal#0" expanded="true" />
+            <element signature="method#maxProfit#0;class#Normal#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="780" selection-start-line="780" selection-end-line="780" />
+          <folding>
+            <element signature="method#main#0;class#test#0" expanded="true" />
+            <element signature="method#oddCells1#0;class#test#0" expanded="true" />
+            <element signature="method#oddCells#0;class#test#0" expanded="true" />
+            <element signature="method#minCostToMoveChips#0;class#test#0" expanded="true" />
+            <element signature="method#replaceWords#0;class#test#0" expanded="true" />
+            <element signature="method#numWays#0;class#test#0" expanded="true" />
+            <element signature="method#minCount#0;class#test#0" expanded="true" />
+            <element signature="method#robot#0;class#test#0" expanded="true" />
+            <element signature="method#isTo#0;class#test#0" expanded="true" />
+            <element signature="method#zeroDouble#0;class#test#0" expanded="true" />
+            <element signature="method#isPrefixOfWord#0;class#test#0" expanded="true" />
+            <element signature="method#largestNumber#0;class#test#0" expanded="true" />
+            <element signature="method#divide#0;class#test#0" expanded="true" />
+            <element signature="method#finalPrices#0;class#test#0" expanded="true" />
+            <element signature="method#getLengthOfWaterfallFlow#0;class#test#0" expanded="true" />
+            <element signature="method#honeyQuotes#0;class#test#0" expanded="true" />
+            <element signature="method#longestUnivaluePath#0;class#test#0" expanded="true" />
+            <element signature="method#longestUnivalue1#0;class#test#0" expanded="true" />
+            <element signature="method#get#0;class#MyLinkedList#0;class#test#0" expanded="true" />
+            <element signature="e#23276#23277#0" expanded="true" />
+            <element signature="e#23316#23317#0" expanded="true" />
+            <element signature="e#23358#23359#0" expanded="true" />
+            <element signature="e#23395#23396#0" expanded="true" />
+            <element signature="method#addAtIndex#0;class#MyLinkedList#0;class#test#0" expanded="true" />
+            <element signature="method#deleteAtIndex#0;class#MyLinkedList#0;class#test#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/common/utils/TransferUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="40" column="67" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="375" column="5" selection-start-line="375" selection-start-column="5" selection-end-line="375" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Test2#0" expanded="true" />
+            <element signature="method#kSum1#0;class#Test2#0" expanded="true" />
+            <element signature="method#minSum#0;class#Test2#0" expanded="true" />
+            <element signature="method#validateStackSequences#0;class#Test2#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="84" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#smallestNumber#0;class#Test1#0" expanded="true" />
+            <element signature="docComment;method#countSpecialNumbers#0;class#Test1#0" />
+            <element signature="method#countSpecialNumbers#0;class#Test1#0" expanded="true" />
+            <element signature="method#isMatch#0;class#Test1#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/myself/think/InterfaceB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/logic/logic1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/single/listnode/ListNodeSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="68" column="29" lean-forward="true" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/common/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="296" selection-start-line="296" selection-end-line="296" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="283" column="54" selection-start-line="283" selection-start-column="51" selection-end-line="283" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="147" column="11" selection-start-line="147" selection-start-column="11" selection-end-line="147" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="191" column="11" selection-start-line="191" selection-start-column="11" selection-end-line="191" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/util/function/IntConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/Thread/ZeroEvenOdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="method#zero#0;class#ZeroEvenOdd#0" expanded="true" />
+            <element signature="method#even#0;class#ZeroEvenOdd#0" expanded="true" />
+            <element signature="method#odd#0;class#ZeroEvenOdd#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/Thread/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="method#repeat#0;class#IntConsumerDemo#0;class#ThreadTest#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/Thread/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17310">
+          <caret line="643" column="23" selection-start-line="643" selection-start-column="23" selection-end-line="643" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/normal/listnode/LostNodeSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+          <folding>
+            <element signature="method#braceExpansionII#0;class#LostNodeSolution#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/normal/tree/treeSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="115" column="19" selection-start-line="115" selection-start-column="19" selection-end-line="115" selection-end-column="19" />
+          <folding>
+            <element signature="method#duoyu#0;class#treeSolution#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/single/array/ArraySolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8040">
+          <caret line="606" column="47" selection-start-line="606" selection-start-column="47" selection-end-line="606" selection-end-column="47" />
+          <folding>
+            <element signature="method#main#0;class#ArraySolution#0" expanded="true" />
+            <element signature="method#arithmeticTriplets#0;class#ArraySolution#0" expanded="true" />
+            <element signature="method#checkXMatrix#0;class#ArraySolution#0" expanded="true" />
+            <element signature="method#countHousePlacements#0;class#ArraySolution#0" expanded="true" />
+            <element signature="method#summaryRanges#0;class#ArraySolution#0" expanded="true" />
+            <element signature="method#missingNumber#0;class#ArraySolution#0" expanded="true" />
+            <element signature="method#wiggleSort#0;class#ArraySolution#0" expanded="true" />
+            <element signature="method#deleteGreatestValue#0;class#ArraySolution#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/single/str/StringSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5340">
+          <caret line="470" selection-start-line="470" selection-end-line="470" />
+          <folding>
+            <element signature="method#isAnagram#0;class#StringSolution#0" expanded="true" />
+            <element signature="method#addDigits#0;class#StringSolution#0" expanded="true" />
+            <element signature="method#addStrings#0;class#StringSolution#0" expanded="true" />
+            <element signature="method#alternateDigitSum#0;class#StringSolution#0" expanded="true" />
+            <element signature="method#numJewelsInStones#0;class#StringSolution#0" expanded="true" />
+            <element signature="method#trap#0;class#StringSolution#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/single/guilv/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="146" column="31" selection-start-line="146" selection-start-column="31" selection-end-line="146" selection-end-column="31" />
+          <folding>
+            <element signature="method#pivotInteger#0;class#Solution#0" expanded="true" />
+            <element signature="method#isUgly#0;class#Solution#0" expanded="true" />
+            <element signature="method#wordPattern#0;class#Solution#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/java/normal/arr/ArrSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7860">
+          <caret line="612" column="43" selection-start-line="612" selection-start-column="43" selection-end-line="612" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#ArrSolution#0" expanded="true" />
+            <element signature="method#reachableNodes#0;class#ArrSolution#0" expanded="true" />
+            <element signature="method#validPartition#0;class#ArrSolution#0" expanded="true" />
+            <element signature="method#longestIdealString#0;class#ArrSolution#0" expanded="true" />
+            <element signature="method#findClosestElements#0;class#ArrSolution#0" expanded="true" />
+            <element signature="method#maximumSum#0;class#ArrSolution#0" expanded="true" />
+            <element signature="method#robotSim#0;class#ArrSolution#0" expanded="true" />
+            <element signature="method#maxSubarraySumCircular#0;class#ArrSolution#0" expanded="true" />
+            <element signature="method#halveArray#0;class#ArrSolution#0" expanded="true" />
+            <element signature="method#grayCode#0;class#ArrSolution#0" expanded="true" />
+            <element signature="method#rotate#0;class#ArrSolution#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/MyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="method#transferLowerToUp#0;class#MyUtil#0" expanded="true" />
+            <element signature="method#main#0;class#MyUtil#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/houyw/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1212">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#test#0" expanded="true" />
+            <element signature="method#sumOfMultiples#0;class#test#0" expanded="true" />
+            <element signature="method#addOrMinusDays#0;class#test#0" expanded="true" />
+            <element signature="method#getYYYYMMDD#0;class#test#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mytest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>extjs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LeetCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>fastjson-1.2.70</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,48 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œëùö
+R
+java:S3740Ÿ"/Provide the parametrized type for this generic.(­ç§ãûÿÿÿÿ8èáç–1
+i
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÛÉó¸
+u
+java:S3012†"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(òã·«øÿÿÿÿ
+R
+java:S3740å"/Provide the parametrized type for this generic.(—Ê‚ýùÿÿÿÿ8Ï­Øé–1
+R
+java:S3740Ú"/Provide the parametrized type for this generic.(ÿÿŠùÿÿÿÿ8Ï­Øé–1
+R
+java:S3740Ö"/Provide the parametrized type for this generic.(ÄùÚ„úÿÿÿÿ8Ø·¦ü›1
+D
+java:S1125È"(Remove the literal "true" boolean value.(›ÑüÄÿÿÿÿÿ
+R
+java:S3740Ÿ"/Provide the parametrized type for this generic.(­ç§ãûÿÿÿÿ8èáç–1
+Q
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8‹Í÷Þ˜1
+M
+java:S3740Ä"/Provide the parametrized type for this generic.(þ‚Þž8ç¥Æé–1
+R
+java:S3740¨"/Provide the parametrized type for this generic.(—Ê‚ýùÿÿÿÿ8Ã÷óç–1
+R
+java:S3740ä"/Provide the parametrized type for this generic.(ÄùÚ„úÿÿÿÿ8¥Ñàü›1
+R
+java:S3740¤"/Provide the parametrized type for this generic.(™Þ­Ôþÿÿÿÿ8£­ïç–1
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(ƒ£Ú¦8ãÏ–é–1
+K
+java:S1172Ï"(Remove this unused method parameter "n".(’ü›ýÿÿÿÿ8ÔÞëÒ™1
+F
+java:S1604©"(Make this anonymous inner class a lambda(ëñÄ–8ÞÍÑâ˜1
+U
+java:S1155“">Use isEmpty() to check whether the collection is empty or not.(Ìíã¤
+K
+java:S3740®"/Provide the parametrized type for this generic.(ê°¥ºÿÿÿÿÿ
+M
+java:S3740©"/Provide the parametrized type for this generic.(ëñÄ–8¤ç¡â˜1
+R
+java:S3740¤"/Provide the parametrized type for this generic.(™Þ­Ôþÿÿÿÿ8£­ïç–1
+R
+java:S3740Ï"/Provide the parametrized type for this generic.(—Ê‚ýùÿÿÿÿ8Ï­Øé–1
+
+java:S1488Ð"\Immediately return this expression instead of assigning it to the temporary variable "list".(¤Êí…ýÿÿÿÿ8ÔÞëÒ™1
+D
+java:S1604®"(Make this anonymous inner class a lambda(ê°¥ºÿÿÿÿÿ
